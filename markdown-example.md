@@ -1,6 +1,6 @@
 # Markdown Example
 
-You can start writing [Markdown](https://daringfireball.net/projects/markdown/) in a minute!
+**You can start writing [Markdown](https://daringfireball.net/projects/markdown/) in a minute!**
 
 Check the demo below, then practice Markdown in your browser using [Dillinger](http://dillinger.io/), try the [Markdown Tutorial](http://www.markdowntutorial.com/), or read GitHub's [Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/).
 
